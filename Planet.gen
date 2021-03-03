@@ -1,0 +1,37 @@
+INITIALIZE_FILE
+"Planet.3dm"
+4
+NORMAL_BUMP_MAP
+"bplanet.pcx"
+NORMAL_BUMP_MAP
+"bplanet.pcx"
+NORMAL_BUMP_MAP
+"bplanet.pcx"
+NORMAL_BUMP_MAP
+"bplanet.pcx"
+BEGIN_RENDER
+WRITE_INSTRUCTION
+"<key><2>"
+"  <sety><0><0>"
+"  <sety><1><64>"
+"  <sety><2><128>"
+"  <sety><3><192>"
+"<endkey>"
+"<yprw><0>"
+"<movw><0>"
+"<yprw><1>"
+"<movw><1>"
+"<yprw><2>"
+"<movw><2>"
+"<yprw><3>"
+"<movw><3>"
+RENDER_TEXTURE
+"jplanet1.pcx"
+"jplanet2.pcx"
+"jplanet3.pcx"
+"jplanet4.pcx"
+CLOSE_FILE
+
+
+
+
